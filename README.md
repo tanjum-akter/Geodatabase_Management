@@ -3,13 +3,13 @@ These Python codes are simple GIS automation script that is used to count featur
 It is used in ArcGIS Desktop and ArcGIS Pro where ArcPy is available. Applied for data management, quality control, database auditing, and project documentation to understand and varify the spatial database without any delay. 
 
 
-Count layer's Output example:
+Count layer, Output example:
 Point: 5  
 Polyline: 12  
 Polygon: 8
 
 
-Count Feature Class Output example:
+Count Feature Class, Output example:
 Total number of feature classes: 39
 Feature classes:
 DHA_KIS_BHA_001_009_RS_PG
@@ -24,5 +24,21 @@ Feature classes ending with _MG: 9
 Feature classes ending with _NG: 9
 Feature classes ending with _SG: 3
 Feature classes ending with _LG: 9
+
+
+Count total features a feature class, Output example:
+
+DHA_KIS_BHA_001_003_RS_SG 8
+DHA_KIS_BHA_002_001_RS_LG 15
+DHA_KIS_BHA_010_004_RS_PG 3
+
+
+Difference between 2 same type feature class, Output example:
+Values only in FeatureClass_1:
+888881
+Values only in FeatureClass_2:
+889500 
+
+
 
 
