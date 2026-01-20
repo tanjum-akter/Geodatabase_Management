@@ -1,8 +1,8 @@
 import arcpy, os
 
 # Input and output geodatabases
-in_gdb  = r"D:\_TANJUM\_GitHub\Import_MG_to_GDB\Bhairab_Bazar.gdb"
-out_gdb = r"D:\_TANJUM\_GitHub\Import_MG_to_GDB\Bhairab_Bazar_MG.gdb"
+in_gdb  = r"D:\_TANJUM\Import_MG_to_GDB\Bhairab_Bazar.gdb"
+out_gdb = r"D:\_TANJUM\Import_MG_to_GDB\Bhairab_Bazar_MG.gdb"
 
 # Set workspace
 arcpy.env.workspace = in_gdb
@@ -20,3 +20,5 @@ for fc in arcpy.ListFeatureClasses("*_MG"):
     print("Copied: {0}".format(fc.encode("utf-8")))
 
 print("Done.")
+
+
