@@ -1,5 +1,5 @@
 Description: 
-These Python codes are simple GIS automation script that is used to count features, feature classes based on their geometry type and different name within a specified geodatabase.
+These Python codes are simple GIS automation script that is used on features, feature classes based on their geometry type and different name within a specified geodatabase.
 It is used in ArcGIS Desktop and ArcGIS Pro where ArcPy is available. Applied for data management, quality control, database auditing, and project documentation to understand and varify the spatial database without any delay. 
 
 
