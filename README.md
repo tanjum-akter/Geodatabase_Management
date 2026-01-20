@@ -40,7 +40,7 @@ Values only in FeatureClass_2:
 889500 
 
 
-  Expected Output and Example:
+  Import feature classes with the same name to another gdb, Expected Output and Example:
 Identifies the feature classes ending with "_MG" within an input file geodatabase and copy them directly into a newly created output geodatabase. Alongside, it connects the data to the ArcMap/MXD being used to run the code and if the gdb is not created earlier, then it would create one.  
 
 Copied: DHA_KIS_BHA_001_001_RS_MG
