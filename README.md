@@ -17,7 +17,9 @@ Feature classes ending with _SG: 3
 Feature classes ending with _LG: 9
 
 
-  Count Total Feature Classes and List, Output example: 
+  Count Total Feature Classes and List, Expected Output and example: 
+Counts the feature classes and list all of them stored within a specified geodatabase. The output shows the total number of feature classes followed by a list of their names as text in the same kernel. 
+
 Total feature classes: 4
 
 DHA_KIS_BHA_001_001_RS_LG
@@ -46,5 +48,3 @@ Identifies the feature classes ending with "_MG" within an input file geodatabas
 Copied: DHA_KIS_BHA_001_001_RS_MG
 Copied: DHA_KIS_BHA_001_002_RS_MG
 Done.
-
-
