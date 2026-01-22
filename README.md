@@ -9,6 +9,14 @@ Polyline: 12
 Polygon: 8
 
 
+  Count Layer according to trair name, Output example:
+Feature classes ending with _PG: 9
+Feature classes ending with _MG: 9
+Feature classes ending with _NG: 9
+Feature classes ending with _SG: 3
+Feature classes ending with _LG: 9
+
+
   Count Feature Class, Output example:
 Total number of feature classes: 39
 Feature classes:
@@ -16,14 +24,6 @@ DHA_KIS_BHA_001_009_RS_PG
 DHA_KIS_BHA_001_001_RS_LG
 DHA_KIS_BHA_001_001_RS_MG
 DHA_KIS_BHA_001_001_RS_NG
-
-
-  Count Layer according to trair name, Output example:
-Feature classes ending with _PG: 9
-Feature classes ending with _MG: 9
-Feature classes ending with _NG: 9
-Feature classes ending with _SG: 3
-Feature classes ending with _LG: 9
 
 
   Count total features in a feature class, Output example:
