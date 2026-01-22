@@ -26,7 +26,7 @@ Feature classes ending with _SG: 3
 Feature classes ending with _LG: 9
 
 
-  Count total features a feature class, Output example:
+  Count total features in a feature class, Output example:
 
 DHA_KIS_BHA_001_003_RS_SG 8
 DHA_KIS_BHA_002_001_RS_LG 15
