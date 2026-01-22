@@ -28,7 +28,7 @@ DHA_KIS_BHA_001_001_RS_NG
 DHA_KIS_BHA_001_001_RS_PG
 
 
-  Count total features in a feature class, Output example:
+  Count features in a feature class, Output example:
 
 DHA_KIS_BHA_001_003_RS_SG 8
 DHA_KIS_BHA_002_001_RS_LG 15
