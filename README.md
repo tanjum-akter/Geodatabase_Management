@@ -9,7 +9,7 @@ Polyline: 12
 Polygon: 8
 
 
-  Count Feature classes according to treir name, Output example:
+  Count Feature classes according to their name, Output example:
 Feature classes ending with _PG: 9
 Feature classes ending with _MG: 9
 Feature classes ending with _NG: 9
