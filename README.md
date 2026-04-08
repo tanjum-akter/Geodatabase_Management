@@ -51,7 +51,7 @@ Copied: DHA_KIS_BHA_001_002_RS_MG
 Done.
 
 
-  Rename Feature Classes, Expected Outpu and Example: 
+  Rename Feature Classes, Expected Output and Example: 
 Identifies the feature classes ending with _LD, _MD, _ND, _PD, _SD, within an input file geodatabase and rename them directly into the same geodatabase according to _LG, _MG, _NG, _PG, _SG.
 
 Renamed: DHA_TAN_MIR_045_000_RS_LD -> DHA_TAN_MIR_045_000_RS_LG
